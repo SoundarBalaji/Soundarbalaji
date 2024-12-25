@@ -2,10 +2,10 @@
 <p align="Right">
   
   <samp>
-    Hi, I'm Soundar Balaji! 👋 <br>
-    🔥 Engineer who is a Software Developer grinding hard to make something cool  <br>
-    :sparkles: Favorite Tech: JavaScript, React, Typescript, Python ... <br>
-    :notebook: I’m currently learning DS and Algorithm  <br>
+    Hello, I'm Soundar Balaji! 👋 <br>
+    🔥 Cloud Data Architect who is grinding hard to make optimized, highly scalable platform  <br>
+    :sparkles: Favorite Tech: Azure, Python , Power BI, Spark, etc... <br>
+    :notebook: I’m currently working Language Models  <br>
     :email:	Soundarbalaji2306@gmail.com <br>
     :art: Portfolio: https://soundarbalaji.github.io <br>
     :briefcase: LinkedIn: https://linkedin.com/in/soundarbalaji <br>
